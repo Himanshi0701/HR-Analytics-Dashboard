@@ -41,9 +41,9 @@ This project focuses on identifying patterns and factors that influence employee
   
 ## 🛠️ Tools & Technologies
 
-- 📊 Power BI / Tableau (Data Visualization)  
-- 🐍 Python (Data Analysis)  
-- 🗄️ SQL (Data Processing)  
+-  Power BI  
+-  SQL
+-  Excel 
 
 ## 📸 Dashboard Preview
 
