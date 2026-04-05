@@ -47,7 +47,7 @@ This project focuses on identifying patterns and factors that influence employee
 
 ## 📸 Dashboard Preview
 
-<img width="1202" height="715" alt="Hr-Analytics-Dashboard" src="https://github.com/user-attachments/assets/7df03dd1-9a64-46f9-bb1c-8f8587c6883a" />
+<img width="1193" height="712" alt="Hr-Analytics-Dashboard" src="https://github.com/user-attachments/assets/7c0a030f-480c-4b3c-a2c7-d9a589da4c31" />
 
 
 ## 📌 Conclusion
